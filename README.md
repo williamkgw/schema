@@ -10,6 +10,7 @@ O Schema é um aplicativo mobile (com versão web) que servirá tanto ao psicól
 ## Authors
 
 Mateus Soares
+
 William Kennedy
 
 ## Version History
